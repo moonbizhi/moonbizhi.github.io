@@ -5,7 +5,7 @@ url: https://moonbizhi.github.io
 avatar: img/head.png
 paginate: 5
 permalink: pretty
-cover_image: img/bg.jpeg
+cover_image: img/bg.jpg
 
 # Gems
 plugins:
