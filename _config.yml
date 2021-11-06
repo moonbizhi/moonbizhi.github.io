@@ -2,10 +2,10 @@
 title: Touch life
 description: Life is a kind of experience
 url: https://moonbizhi.github.io
-avatar: /avatar.jpeg
+avatar: img/avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: img/bg.jpeg
 
 # Gems
 plugins:
